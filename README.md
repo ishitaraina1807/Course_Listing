@@ -1,4 +1,5 @@
 ## **Course Enrollment Platform**   
+#P.S -> This project uses json server that doesn't run on deployment. Kindly run the project locally.
 A React-based course enrollment platform using **Redux Toolkit** for state management, **Tailwind CSS** for styling, and **JSON Server** as a mock backend.
 
 ---
