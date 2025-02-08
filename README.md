@@ -23,8 +23,8 @@ A React-based course enrollment platform using **Redux Toolkit** for state manag
 ## **💻 Installation & Setup**
 ### **1️⃣ Clone the repository**
 ```sh
-git clone https://github.com/your-username/course-enrollment-platform.git
-cd course-enrollment-platform
+git clone https://github.com/ishitaraina1807/Course_Listing
+cd Course_Listing
 ```
 
 ### **2️⃣ Install Dependencies**
