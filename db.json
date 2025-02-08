@@ -1,0 +1,120 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&auto=format&fit=crop",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Advanced Web Development",
+      "instructor": "Jane Smith",
+      "description": "Master modern web development techniques and best practices.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&auto=format&fit=crop",
+      "duration": "10 weeks",
+      "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "HTML/CSS",
+        "JavaScript",
+        "Basic React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Modern JavaScript",
+          "content": "ES6+, async/await, modules, and modern JavaScript patterns."
+        },
+        {
+          "week": 2,
+          "topic": "Advanced React",
+          "content": "Hooks, Context, Performance Optimization."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": "3",
+      "name": "Data Science Fundamentals",
+      "instructor": "Michael Brown",
+      "description": "Introduction to data science concepts and tools.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=800&auto=format&fit=crop",
+      "duration": "12 weeks",
+      "schedule": "Fridays, 5:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic Python",
+        "Statistics"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Data Science",
+          "content": "Overview of data science, tools, and methodologies."
+        },
+        {
+          "week": 2,
+          "topic": "Data Analysis with Python",
+          "content": "Using pandas and numpy for data analysis."
+        }
+      ],
+      "students": []
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "1819",
+      "userId": 1,
+      "courseId": "1",
+      "progress": 100,
+      "completed": true,
+      "enrollmentDate": "2025-02-08T12:16:06.745Z"
+    },
+    {
+      "id": "ce15",
+      "userId": 1,
+      "courseId": "2",
+      "progress": 0,
+      "completed": false,
+      "enrollmentDate": "2025-02-08T12:16:51.017Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Test User",
+      "email": "test@example.com"
+    }
+  ]
+}
