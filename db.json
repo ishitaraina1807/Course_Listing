@@ -94,14 +94,6 @@
   ],
   "enrollments": [
     {
-      "id": "1819",
-      "userId": 1,
-      "courseId": "1",
-      "progress": 100,
-      "completed": true,
-      "enrollmentDate": "2025-02-08T12:16:06.745Z"
-    },
-    {
       "id": "ce15",
       "userId": 1,
       "courseId": "2",
